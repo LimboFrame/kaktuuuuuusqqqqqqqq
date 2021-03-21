@@ -1,0 +1,41 @@
+body {
+    background-color:PaleGreen;
+    font-size: 20px;
+}
+img {
+    border-radius:10px;
+    border: 1px solid PaleGreen;
+    width: 150px;
+    height: 150px;
+    margin: 5px;
+}
+
+header h1 {
+    border: 2px solid lightcyan;
+    border-radius: 10px;
+    text-align: center;
+    background-color: lightcyan;
+}
+
+main h1{
+    border:3px solid lightcyan;
+    border-radius: 20px;
+    padding: 5px;
+    margin: 5px;
+    background-color: lightcyan;
+    font-size: 30px;
+}
+main h2 {
+    border:3px solid lightcyan;
+    border-radius: 20px;
+    padding: 5px;
+    margin: 5px;
+    font-size: 20px;
+}
+
+footer p{
+    border: 1px solid lightcyan;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 10px;
+}
